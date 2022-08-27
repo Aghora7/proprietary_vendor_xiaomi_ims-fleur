@@ -1,5 +1,5 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/realme/ims-spaced
+    vendor/xiaomi/ims-fleur
 
 # Apps
 PRODUCT_PACKAGES += \
